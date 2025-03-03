@@ -1,1 +1,3 @@
 # Überschrift
+- [ ] Lernen
+- [x] Racket
